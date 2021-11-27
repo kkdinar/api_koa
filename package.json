@@ -1,0 +1,14 @@
+{
+  "name": "assistant",
+  "version": "1.0.3",
+  "description": "backend for Assistant",
+  "main": "index.js",
+  "dependencies": {
+    "@koa/router": "10.0.0",
+    "@koa/multer": "3.0.0",
+    "multer": "1.4.3",
+    "koa": "2.13.0",
+    "koa-bodyparser": "4.3.0",
+    "pg": "8.6.0"
+  }
+}
